@@ -16,27 +16,31 @@ This GitHub repository contains the code and resources for a Hospital Operations
 ## Introduction
 The Hospital Operations Dashboard Analytics application aims to help healthcare administrators and professionals make data-driven decisions by providing a comprehensive overview of hospital operations. With interactive dashboards and visualizations, users can explore key metrics, identify patterns, and uncover actionable insights to optimize hospital performance and patient care.
 
+Note: The dataset used in this application is synthetic, meaning it has been artificially generated for demonstration and educational purposes. It does not represent actual hospital operations data.
+
 ## Features
-- Patient Trend Analysis
-- Operating Performance
-- Patient Satisfaction Analysis
-- Financial Performance Analysis
-- Department Revenue Analysis
-- Admission Type Revenue Analysis
-- Revenue Trends Over Time
-- Revenue by Payer
-- Revenue by Age Group
-- Interactive Data Filters
-- Exportable Reports
+- Performance Metrics Analysis: Track key performance indicators (KPIs) such as patient admissions, bed occupancy rates, and emergency room wait times.
+
+- Patient Trends Exploration: Analyze patient demographics, admission types, and length of stay to understand patient populations and utilization patterns.
+
+- Financial Data Visualization: Visualize revenue streams, billing trends, and payer mix to monitor financial performance and optimize revenue cycles.
+
+- Operational Efficiency Insights: Identify bottlenecks, inefficiencies, and resource utilization patterns to streamline hospital operations and improve overall efficiency.
 
 ## Technologies Used
-- Python
-- Streamlit
-- Pandas
-- Plotly Express
-- NumPy
-- Matplotlib
-- Seaborn
+- Python: Programming language used for data manipulation, analysis, and visualization.
+
+- Streamlit: Web application framework used for building interactive data dashboards.
+
+- Pandas: Data manipulation library used for data preprocessing and analysis.
+
+- NumPy: Library used for numerical computing and array operations.
+
+- Matplotlib: Visualization library used for creating static plots and charts.
+
+- Seaborn: Statistical data visualization library built on top of Matplotlib, used for creating more visually appealing plots.
+
+- Plotly: Interactive visualization library used for creating interactive plots and dashboards.
 
 ## Usage
 
