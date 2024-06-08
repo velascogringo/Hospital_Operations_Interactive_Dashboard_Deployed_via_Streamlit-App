@@ -48,6 +48,8 @@ To access the Hospital Operations Dashboard Analytics application, simply visit 
 
 https://hospital-operations-interactive-dashboard.streamlit.app/
 
+Note: If the application has not been used for a while, it may go to sleep. If prompted to wake the application, please do so.
+
 Alternatively, if you prefer to run the application locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
