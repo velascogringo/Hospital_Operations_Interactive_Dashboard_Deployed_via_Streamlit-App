@@ -11,7 +11,7 @@
 - [Contributing](#contributing)
 
 ## About
-This GitHub repository contains the code and resources for a Hospital Operations Dashboard Analytics application. The application is designed to provide insights and visualizations for hospital operations data, allowing users to analyze performance metrics, patient trends, financial data, and more.
+This GitHub repository contains the code and resources for a Hospital Operations Analytics Dashboard application. The application is designed to provide insights and visualizations for hospital operations data, allowing users to analyze performance metrics, patient trends, financial data, and more.
 
 ## Introduction
 The Hospital Operations Dashboard Analytics application aims to help healthcare administrators and professionals make data-driven decisions by providing a comprehensive overview of hospital operations. With interactive dashboards and visualizations, users can explore key metrics, identify patterns, and uncover actionable insights to optimize hospital performance and patient care.
